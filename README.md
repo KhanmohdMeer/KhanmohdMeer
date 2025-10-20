@@ -1,8 +1,5 @@
 - 👋 Hi I am Khan Mohammed Meraan
 - 👀 I’m interested in Software Development
-- 🌱 I Have Completed Data Scientist course From TechData solution
 - 💞️ I’m looking to collaborate on Project's and Idea's 💡💭
-- Completed Graduation in BSC-IT in April 2023
 - Have a good knowledge of Computer and Microsoft Office Tools 
-- Fresher 🧑🏻‍💼
 - I have a knowledge in coding in Python, Java, MySQL, Jupiternotebook, Spyder, Android studio,Google collab etc.
